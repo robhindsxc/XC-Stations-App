@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aberdeen",
+    "crs": "ABD",
+    "operator": "ScotRail"
+  },
+  {
+    "name": "Birmingham New Street",
+    "crs": "BHM",
+    "operator": "Network Rail"
+  },
+  {
+    "name": "Bristol Temple Meads",
+    "crs": "BRI",
+    "operator": "Network Rail"
+  },
+  {
+    "name": "Leeds",
+    "crs": "LDS",
+    "operator": "Network Rail"
+  },
+  {
+    "name": "Manchester Piccadilly",
+    "crs": "MAN",
+    "operator": "Network Rail"
+  },
+  {
+    "name": "Newcastle",
+    "crs": "NCL",
+    "operator": "Network Rail"
+  },
+  {
+    "name": "Plymouth",
+    "crs": "PLY",
+    "operator": "Great Western Railway"
+  },
+  {
+    "name": "York",
+    "crs": "YRK",
+    "operator": "LNER"
+  }
+]
